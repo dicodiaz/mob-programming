@@ -18,7 +18,7 @@ This is a consolidation of every DSA challenge that was solved as a part of Micr
 
 - GitHub: [@dicodiaz](https://github.com/dicodiaz)
 - LinkedIn: [Dico Diaz Dussan](https://www.linkedin.com/in/dico-diaz-dussan-476106a6/)
-- Portfolio: [www.dicodiaz.com.co](https://dicodiaz.com.co)
+- Portfolio: [dicodiaz.com.co](https://dicodiaz.com.co)
 
 ## 🤝 Contributing
 
